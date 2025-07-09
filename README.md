@@ -29,7 +29,6 @@ The dataset includes details about Netflix titles, such as:
 
 ## How to Use
   1. Clone this repository:
-
   2. Open Netflix_Analysis.ipynb in Jupyter Notebook or Jupyter Lab.
   3. Ensure required Python libraries (pandas, numpy, matplotlib, seaborn) are installed.
   4. Run the cells to view the analysis.
