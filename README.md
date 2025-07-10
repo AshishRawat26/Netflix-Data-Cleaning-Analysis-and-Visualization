@@ -22,6 +22,7 @@ The dataset includes details about Netflix titles, such as:
  **Data Cleaning:**
       1. Handled missing values.
       2. Reformatted dates and numerical fields.
+      
 **Data Analysis:**
       1. Analyzed content distribution across genres, ratings, and release years.
       2. Explored trends in content addition to Netflix.
